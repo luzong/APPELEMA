@@ -1,0 +1,140 @@
+body{
+	background: #f5f5f5;
+	font-family: "微软雅黑";
+}
+.index-header{
+	width: 100%;
+	height: 1.15rem;
+	background-image: url("../images/tou_02.png");
+	background-repeat:repeat-y;
+	background-size:100% ;
+}
+.index-header ul li i{
+	color: #FFFFFF;
+	font-size: 0.4rem;
+	position: absolute;
+	top: 0.38rem;
+	left: 0.4rem;
+}
+.ali{
+	color: #fff;
+	font-size: 0.39rem;
+	position: absolute;
+	top: 0.3rem;
+	left: 1.46rem;
+}
+.bli{
+	color: #fff;
+	font-size: 0.39rem;
+	margin-right: 0.32rem;
+	margin-top: 0.3rem;
+	float: right;
+}
+.main{
+	border-top:0.28rem solid #F5F5F5;
+}
+.denglu-one{
+	height: 0.92rem;
+	/*margin-top: 0.28rem;*/
+	background: #fff;
+	/*border-top: 1px solid #f5f5f5;*/
+	border-bottom: 1px solid #f5f5f5;
+}
+.main .denglu-one ul li:nth-child(1){
+	color: #019AFF;
+	font-size: 0.5rem;
+	margin-left: 0.27rem;
+	float: left;
+	margin-top: 0.1rem;
+}
+.main .denglu-one ul li span{
+	color: #6D6D6D;
+	font-size: 0.32rem;
+	float: left;
+	margin-top: 0.2rem;
+}
+.cli{
+	width: 2.03rem;
+	height: 0.8rem;
+	border-radius: 3px;
+	float: right;
+	background-color: #d5d4d2;
+	text-align: center;
+	margin-top: 0.06rem;
+	margin-right: 0.25rem;
+}
+.cli p{
+	font-size: 0.33rem;
+	color: #fff;
+	float: right;
+	margin-right: 0.15rem;
+	margin-top: 0.15rem;
+}
+.denglu-two ul li{
+	width: 6.51rem;
+	height: 0.67rem;
+	font-size: 0.3rem;
+	color: #666;	
+	margin: 0 auto;
+	margin-top: 0.38rem;
+}
+.denglu-three ul li{
+	width: 6.51rem;
+	height: 0.95rem;
+	background: #4DC060;
+	border-radius: 3px;
+	margin: 0 auto;
+	margin-top: 0.56rem;
+}
+.denglu-three ul li p{
+	color: #fff;
+	font-size: 0.42rem;
+	text-align: center;
+	padding-top: 0.2rem;
+}
+.denglu-four ul li:nth-child(1){
+	color: #ccc;
+	position: fixed;
+	bottom: 2.58rem;
+	left: 2.21rem;
+}
+.denglu-four ul li:nth-child(2){
+	color: #ccc;
+	font-size: 0.3rem;
+	position: fixed;
+	bottom: 2.58rem;
+	left: 3rem;
+}
+.denglu-four ul li:nth-child(3){
+	color: #ccc;
+	position: fixed;
+	bottom: 2.58rem;
+	left: 4.7rem;
+}
+
+
+
+.footer-one{
+	width: 100%;
+	height: 1rem;
+	position: fixed;
+	bottom: 1rem;
+	z-index: 10;
+	text-align: center;
+}
+.footer-one img{
+	width: 0.86rem;
+	height: 0.82rem;
+	margin-top: 0.16rem;
+}
+.footer-one p{
+	color: #999999;
+	font-size: 0.24rem;
+	margin-top: 0.12rem;
+}
+.footer-one ul li{
+	width: 1.05rem;
+	margin-left: 0.55rem;
+	float: left;
+}
+

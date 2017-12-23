@@ -1,0 +1,244 @@
+body{
+	background: #f5f5f5;
+	font-family: "微软雅黑";
+}
+.index-header{
+	width: 100%;
+	height: 3.4rem;
+	background-image: url("../images/tou_02.png");
+	background-repeat:repeat-y;
+	background-size:100% ;
+}
+.ali{
+	color: #fff;
+	font-size: 0.39rem;
+	position: absolute;
+	top: 0.3rem;
+	left: 0.36rem;
+}
+.bli i{
+	color: #fff;
+	font-size: 0.43rem;
+	margin-right:1.5rem;
+	margin-top: 0.4rem;
+	float: right;
+}
+.cli i{
+	color: #fff;
+	font-size: 0.43rem;
+	margin-left: 4.5rem;
+	margin-top: -0.4rem;
+	margin-right: 0.6rem;
+	float: right;
+}
+.my-one{
+	height: 19.5rem;
+}
+.my-one img{
+	width: 1.44rem;
+	height: 1.39rem;
+	margin-top: 0.5rem;
+	margin-left: 0.36rem;
+	position: relative;
+	/*float: left;*/
+}
+.my-one ul li p{
+	color: #FFFFFF;
+	font-size: 0.3rem;
+	margin-left: 2.3rem;
+	margin-top: -1.1rem;
+	float: left;
+}
+.my-one ul li span{
+	color: #FFFFFF;
+	font-size: 0.25rem;
+	position: absolute;
+	left: 2.3rem;
+	top: 2.2rem;
+}
+.my-one ul li i{
+	color: #fff;
+	font-size: 0.6rem;
+	margin-right: 0.6rem;
+	margin-top: -1rem;
+	float: right;
+}
+.my-two{
+	height: 1.62rem;
+}
+.my-two ul{
+	width: 2.38rem;
+	height: 1.62rem;
+	text-align: center;
+	float: left;
+	border-bottom: 1px solid #EEEEEE;
+	border-right: 1px solid #eee;
+}
+.my-two ul li:nth-child(2){
+	color: #666;
+	font-size: 0.25rem;
+}
+.my-two ul:nth-child(1) li:nth-child(1){
+	color: #2395ff;
+	font-size: 0.6rem;
+	margin-top: 0.2rem;
+}
+.my-two ul:nth-child(1) li:nth-child(1) span{
+	color: #2395ff;
+	font-size: 0.25rem;
+	margin-top: 0.2rem;
+}
+.my-two ul:nth-child(2) li:nth-child(1){
+	color: #ff5f3e;
+	font-size: 0.6rem;
+	margin-top: 0.2rem;
+}
+.my-two ul:nth-child(2) li:nth-child(1) span{
+	color: #ff5f3e;
+	font-size: 0.25rem;
+	margin-top: 0.2rem;
+}
+.my-two ul:nth-child(3){
+	border-right: none;
+}
+.my-two ul:nth-child(3) li:nth-child(1){
+	color: #ffa200;
+	font-size: 0.6rem;
+	margin-top: 0.2rem;
+}
+.my-two ul:nth-child(3) li:nth-child(1) span{
+	color: #ffa200;
+	font-size: 0.25rem;
+	margin-top: 0.2rem;
+}
+.my-three ul{
+	width: 100%;
+	height: 1.95rem;
+}
+.my-three ul li img{
+	width: 100%;
+	height: 1.62rem;
+	margin-top: -0.04rem;
+}
+.my-four{
+	height: 1.95rem;
+	background: #fff;
+	margin-top: 1.98rem;
+}
+.my-four ul{
+	height: 0.98rem;
+	border-bottom: 1px solid #eee;
+}
+.my-four ul li img{
+	width: 0.35rem;
+	height: 0.37rem;
+	margin-top: 0.3rem;
+	margin-left: 0.33rem;
+}
+.my-four ul li:nth-child(2){
+	font-size: 0.33rem;
+	margin-left: 1.2rem;
+	margin-top: -0.4rem;
+}
+.my-five{
+	height: 1.95rem;
+	background: #fff;
+	margin-top: 0.2rem;
+}
+.my-five ul{
+	height: 0.98rem;
+	border-top: 1px solid #eee;
+}
+.my-five ul li img{
+	width: 0.35rem;
+	height: 0.37rem;
+	margin-top: 0.3rem;
+	margin-left: 0.33rem;
+}
+.my-five ul li:nth-child(2){
+	font-size: 0.33rem;
+	margin-left: 1.2rem;
+	margin-top: -0.4rem;
+}
+.my-five ul li:nth-child(3){
+	float: right;
+	font-size: 0.27rem;
+	color: #666;
+	margin-right: 0.47rem;
+	margin-top: -0.4rem;
+}
+.my-six{
+	height: 3.9rem;
+	background: #fff;
+}
+.my-six ul{
+	height: 0.99rem;
+	border-top: 1px solid #eee;
+}
+.my-six ul li img{
+	width: 0.21rem;
+	height: 0.16rem;
+	margin-top: 0.3rem;
+	margin-left: 0.33rem;
+}
+.my-six ul li:nth-child(2){
+	font-size: 0.33rem;
+	margin-left: 1.2rem;
+	margin-top: -0.2rem;
+}
+.my-six ul li:nth-child(3){
+	float: right;
+	font-size: 0.27rem;
+	color: #666;
+	margin-right: 0.47rem;
+	margin-top: -0.4rem;
+}
+.my-seven{
+	height: 2.92rem;
+	background: #fff;
+	margin-top: 0.2rem;
+}
+.my-seven ul{
+	height: 0.97rem;
+	border-top: 1px solid #eee;
+}
+.my-seven ul li img{
+	width: 0.37rem;
+	height: 0.35rem;
+	margin-top: 0.3rem;
+	margin-left: 0.33rem;
+}
+.my-seven ul li:nth-child(2){
+	font-size: 0.33rem;
+	margin-left: 1.2rem;
+	margin-top: -0.37rem;
+}
+.footer{
+	width: 100%;
+	height: 1rem;
+	position: fixed;
+	bottom: 0;
+	z-index: 10;
+	text-align: center;
+	background: #f6f6f6;
+	border-top: 1px solid #ccc;
+}
+.footer img{
+	width: 0.42rem;
+	height: 0.41rem;
+	margin-top: 0.16rem;
+}
+.footer p{
+	color: #999999;
+	font-size: 0.24rem;
+	margin-top: 0.12rem;
+}
+.footer ul li{
+	width: 1.05rem;
+	margin-left: 0.55rem;
+	float: left;
+}
+.footer ul li:nth-child(4) p{
+	color: #019aff;
+}
+

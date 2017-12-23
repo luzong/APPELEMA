@@ -1,0 +1,85 @@
+body{
+	background: #f5f5f5;
+	font-family: "微软雅黑";
+}
+.index-header{
+	width: 100%;
+	height: 1.15rem;
+	background-image: url("../images/tou_02.png");
+	background-repeat:repeat-y;
+	background-size: 100%;
+}
+.ali{
+	color: #fff;
+	font-size: 0.39rem;
+	position: absolute;
+	top: 0.3rem;
+	left: 0.36rem;
+}
+.bli{
+	color: #fff;
+	font-size: 0.39rem;
+	margin-right: 0.32rem;
+	margin-top: 0.3rem;
+	float: right;
+}
+.main{
+	background: #f5f5f5;
+}
+.main .dingdan-one img{
+	width: 4.70rem;
+	height: 3.24rem;
+	margin-top: 3.15rem;
+	margin-left: 1.28rem;
+}
+.main .dingdan-one ul li span{
+	color: #707070;
+	font-size: 0.28rem;
+	margin-left: 2.1rem;
+}
+.cli{
+	width: 2.45rem;
+	height: 0.65rem;
+	border: 1px solid #ccc;
+	position: relative;
+	border-radius: 4px;
+	margin-top: 0.5rem;
+	margin-left: 2.4rem;
+	line-height: 0.7rem;
+}
+.cli p{
+	font-size: 0.3rem;
+	font-weight: bold;
+	position: absolute;
+	text-align: center;	
+	margin-top: -0.04rem;
+	margin-left: 0.3rem;
+}
+.footer{
+	width: 100%;
+	height: 1rem;
+	position: fixed;
+	bottom: 0;
+	z-index: 10;
+	text-align: center;
+	background: #f6f6f6;
+	border-top: 1px solid #ccc;
+}
+.footer img{
+	width: 0.42rem;
+	height: 0.41rem;
+	margin-top: 0.16rem;
+}
+.footer p{
+	color: #999999;
+	font-size: 0.24rem;
+	margin-top: 0.12rem;
+}
+.footer ul li{
+	width: 1.05rem;
+	margin-left: 0.55rem;
+	float: left;
+}
+.footer ul li:nth-child(3) p{
+	color: #019aff;
+}
